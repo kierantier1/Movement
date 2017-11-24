@@ -1,0 +1,19 @@
+All journal entries relating to Movement
+
+November 21, 2017
+-Starting on Movement, hit detection between sprites
+-Going to base it off of Mr Grondin's hit detection from my old game
+
+November 22, 2017
+-Grondin forgot his USB, going to create an object and try to build it from scratch
+
+November 23, 2017
+-It was in Homework the whole time
+-Transferring code from HitSprite to Movement
+-going to work on Hit detection tomorrow, between player-controlled Dude and a rock sprite
+-forgot to push to github, making new file @ home
+-actually worked on hit detection at home.  Done
+
+November 24, 2017
+-transferring Movement2 code to Movement
+-going back to MenuButton, to make a Button class that extends Sprite
